@@ -1,0 +1,22 @@
+{
+  "name": "cmds",
+  "version": "1.0.0",
+  "description": "Useful commands for every day development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaytsevand/cmds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaytsevand/cmds/issues"
+  },
+  "homepage": "https://github.com/zaytsevand/cmds#readme",
+  "dependencies": {
+    "vanity-eth": "^1.1.0"
+  }
+}
